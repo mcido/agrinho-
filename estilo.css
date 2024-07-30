@@ -1,0 +1,26 @@
+ :root{
+
+  --cor-de-fundo:rgb(255,255,255);
+  --cor-da-fonte: rgb(255,255,255);
+  --cor-fonte-titulo:#ffffff; 
+  --cor-de--fundo-cabecalho: var(--cor-de-fundo);
+
+ }
+body{
+     background: rgb(0, 0, 0);
+background: linear-gradient(180deg, rgb(0,0,0,1));
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+ 
