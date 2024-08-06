@@ -8,14 +8,55 @@
  }
 body{
      background: rgb(0, 0, 0);
-background: linear-gradient(180deg, rgb(0,0,0,1));
+     background: linear-gradient(180deg, rgb(0,0,0,1));
+     height: 100vh ;
+      }
+
+      .texto{
+             color: #ffffff;
+
+      }
 
 
 
+        h1{
+            color: rgb(255,255,255) ;
+
+        }
+      .cabecalho_menu-hamburguer{
+          width: 24px;
+          height: 24p;
+          display:inline-block ;
+          background-image:url('imagen/Menu.vg') ;
+          background-repeat: no-repeat;
+          background-position: center;
+
+      }
+
+        .cabecalho{
+
+        background-color: var(--branco);
+        display:flex  ;
+        justify-content: space-between ;
+     }
+
+     .container{
+
+        display: flex ;
+        justify-content: space-between ;
+        align-items: center;
+
+
+     }
 
 
 
-}
+     .container_image{
+
+      padding:  lem;
+
+
+     }
 
 
 
