@@ -1,6 +1,6 @@
  :root{
 
-  --cor-de-fundo:rgb(255,255,255);
+  --cor-de-fundo:rgb(0, 0, 0);
   --cor-da-fonte: rgb(255,255,255);
   --cor-fonte-titulo:#ffffff; 
   --cor-de--fundo-cabecalho: var(--cor-de-fundo);
@@ -47,7 +47,7 @@ body{
 
 
      }
-
+     --cor-de-fundo
 
 
      .container_image{
