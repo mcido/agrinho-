@@ -33,7 +33,7 @@ body{
         justify-content: space-between ;
         color: #000000;
         font-size: 24px;
-        justify-content: center;
+        text-align: center;
      }
      .logo1{
       width: 20%;
