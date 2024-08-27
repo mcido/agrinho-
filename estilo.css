@@ -16,15 +16,9 @@ body{
 
 
        
-      .cabecalho_menu-hamburguer{
-          width: 24px;
-          height: 24px;
-          display:inline-block ;
-          background-image:url('imagen/Menu.vg') ;
-          background-repeat: no-repeat;
-          background-position: center;
+     
 
-      }
+      
 
         .cabecalho{
 
