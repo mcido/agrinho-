@@ -28,10 +28,10 @@ body{
 
         .cabecalho{
 
-        background-color: var(--branco);
+        background-color: white;
         display:flex  ;
         justify-content: space-between ;
-        color: #ffffff;
+        color: #000000;
         font-size: 24px;
      }
 
